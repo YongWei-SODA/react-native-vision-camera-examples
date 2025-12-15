@@ -1,4 +1,9 @@
 {
   "name": "rn_camera_library_examples",
-  "displayName": "rn_camera_library_examples"
+  "displayName": "rn_camera_library_examples",
+  "extra": {
+    "eas": {
+      "projectId": "0164f6c6-acc9-4ccb-8c88-ede7782c538e"
+    }
+  }
 }
